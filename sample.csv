@@ -1,0 +1,10 @@
+group,variable,value
+Low,Low,30
+Low,Medium,20
+Low,High,22
+Medium,Low,14
+Medium,Medium,59
+Medium,High,52
+High,Low,88
+High,Medium,20
+High,High,99
